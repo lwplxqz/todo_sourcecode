@@ -10,6 +10,7 @@
 
 # production
 /build
+/todo-template
 
 # misc
 .DS_Store
